@@ -1,0 +1,4 @@
+django==1.6
+djangorestframework
+django-cities
+psycopg2==2.5.1
